@@ -1,0 +1,5 @@
+python-dotenv
+phidata==2.7.5
+groq
+yfinance
+duckduckgo-search
